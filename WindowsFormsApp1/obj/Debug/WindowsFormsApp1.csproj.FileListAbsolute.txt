@@ -1,0 +1,67 @@
+F:\all semester\7th Semester\OOP2\c3 project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\all semester\7th Semester\OOP2\c3 project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\all semester\7th Semester\OOP2\c3 project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\all semester\7th Semester\OOP2\c3 project\WindowsFormsApp1\bin\Debug\Guna.UI.dll
+F:\all semester\7th Semester\OOP2\c3 project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\all semester\7th Semester\OOP2\c3 project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\all semester\7th Semester\OOP2\c3 project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\all semester\7th Semester\OOP2\c3 project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\all semester\7th Semester\OOP2\c3 project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\all semester\7th Semester\OOP2\c3 project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\all semester\7th Semester\OOP2\c3 project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MEDVIEW.resources
+F:\all semester\7th Semester\OOP2\c3 project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\all semester\7th Semester\OOP2\c3 project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Model.MEdcategoryAdd.resources
+F:\all semester\7th Semester\OOP2\c3 project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.view.MedCategoryView.resources
+F:\all semester\7th Semester\OOP2\c3 project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home_page.resources
+F:\all semester\7th Semester\OOP2\c3 project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+F:\all semester\7th Semester\OOP2\c3 project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home_page.resources
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forgot_paswword.resources
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Seller.resources
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customer.resources
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registration.resources
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\bin\Debug\Userlogin.mdf
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\bin\Debug\Userlogin_log.ldf
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MedAdd.resources
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Medview.resources
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MedcategoryAdd.resources
+F:\all semester\7th Semester\OOP2\c# project\c# project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Medcategoryview.resources
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\bin\Debug\Userlogin.mdf
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\bin\Debug\Userlogin_log.ldf
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customer.resources
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forgot_paswword.resources
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home_page.resources
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MedAdd.resources
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MedcategoryAdd.resources
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Medcategoryview.resources
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Medview.resources
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registration.resources
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Seller.resources
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pmedicineAdd.resources
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pmedicineview.resources
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductWindow.resources
+D:\Visual Studio 2019\Online Pharmecy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mdProduct.resources
